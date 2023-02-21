@@ -8,4 +8,4 @@ The repository contains the following files:
 - `Report`: pdf file containing the report of the project, with a theoretical overview of the algorithm and a test part on both synthetic and real data.
 - `CLIQUE`: R file containing the tests performed
 
-Links to the dataset used can be found in the footnotes of the report.
+Links to the datasets used can be found in the footnotes of the report.
